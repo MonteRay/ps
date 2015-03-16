@@ -1,0 +1,1 @@
+powershell.exe -Sta -File FolderTree.ps1
